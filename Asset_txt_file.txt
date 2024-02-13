@@ -1,0 +1,16 @@
+      ||                      ASSET MANAGEMENT SYSTEM                  ||
+ 
+
+     1. The given Code file named " ASSET MANAGER " contains the all required java files in order to run the system.
+     2. It can be runned on any platform but preferred is VS code. 
+     3. In order to run the project, follow the following steps:
+         a. Open the above mentioned folder in the vs code.
+         b. Run the "loginApp" named java file first.
+         c. Inorder to login to desired account, following are the mentiond username & password-
+            For user : USERNAME-"user"      PASSWORD-"userpass"
+            For admin : USERNAME-"admin"    PASSWORD-"adminpass"
+            For Staff : USERNAME-"staff"    PASSWORD-"staffpass"
+     4. For class diagram and other data refer to pdf attach in the folder.
+
+
+        
